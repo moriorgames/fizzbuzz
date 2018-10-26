@@ -1,0 +1,14 @@
+{
+    "name": "moriorgames/fizzbuzz",
+    "type": "project",
+    "license": "proprietary",
+    "description": "Moriorgames Fizz Buzz kata",
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
